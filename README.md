@@ -33,10 +33,10 @@
 ## Input:
 
 ### Output:
+![MODEL](/mech10.png)
 
-
-### Name:
-### Register Number:
+### Name: Sai Praneeth K
+### Register Number: 212222230067
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
